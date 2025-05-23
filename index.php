@@ -12,7 +12,7 @@
 <body>
     <h1>Formulario de Contacto</h1>
     
-    <?php require 'form.php'; ?>
+    <?php require 'Views/Form.php'; ?>
     
 </body>
 </html>
